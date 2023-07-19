@@ -6,7 +6,8 @@ published: true
 
 Vocabulary words:
 
-Toefl releated important links
+Toefl releated important links\\
+
 [Machine Learning roadmap](https://github.com/rutvikjoshi63/rutvikjoshi63.github.io/blob/master/2023-07-19-Machine%20Learning%20roadmap.md)\\
 [Jekyll Now repository](https://github.com/barryclark/jekyll-now)\\
 [Jekyll Now repository](https://github.com/barryclark/jekyll-now)\\
