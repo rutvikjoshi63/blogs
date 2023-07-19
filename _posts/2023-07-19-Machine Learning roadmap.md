@@ -9,7 +9,7 @@ title: Blogging Like a Hacker
 1. Use Parallel Conquring Technique
     * [Deep Learning Mathematics Roadmap](https://github.com/h9-tect/ML-DL_Roadmap./tree/main).
     * [Machine-Learning-in-90-days](https://www.youtube.com/watch?v=czQO1_GEEos&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
-    * [Quick recap](https://github.com/mrdbourke/zero-to-mastery-ml)
+    * Zero to Mastery Machine Learning for [Quick recap](https://github.com/mrdbourke/zero-to-mastery-ml)
 
 
  Use the toolbar above, or click the **?** button for formatting help.
