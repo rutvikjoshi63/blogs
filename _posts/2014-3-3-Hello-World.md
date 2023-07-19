@@ -7,9 +7,9 @@ published: true
 Vocabulary words:
 
 Toefl releated important links
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now)\\
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now)\\
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now)\\
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
