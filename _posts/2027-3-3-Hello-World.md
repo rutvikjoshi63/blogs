@@ -4,13 +4,13 @@ title: Tracking progress
 published: true
 ---
 
-
-[Machine Learning roadmap](https://github.com/rutvikjoshi63/rutvikjoshi63.github.io/blob/master/2023-07-19-Machine%20Learning%20roadmap.md)\\
-[Toefl repository]()\\
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
-fist blog
+Latest blog for information blog
+ 
+1. [Machine Learning roadmap](https://rutvikjoshi63.github.io/Machine-Learning-roadmap/) \n
+2. [Toefl repository](https://rutvikjoshi63.github.io/TOEFL/)\\
+
