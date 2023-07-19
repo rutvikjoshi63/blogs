@@ -6,10 +6,13 @@ layout: post
 title: Blogging Like a Hacker
 ---
 ## A New Post for resources to learn machine learning
+1. Use Parallel Conquring Technique
+    * [Deep Learning Mathematics Roadmap](https://github.com/h9-tect/ML-DL_Roadmap./tree/main).
+    * [Machine-Learning-in-90-days](https://www.youtube.com/watch?v=czQO1_GEEos&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+    * [Quick recap](https://github.com/mrdbourke/zero-to-mastery-ml)
 
-[Deep Learning Mathematics Roadmap](https://github.com/h9-tect/ML-DL_Roadmap./tree/main). Use the toolbar above, or click the **?** button for formatting help.
 
-
+ Use the toolbar above, or click the **?** button for formatting help.
 ---
 layout: post
 title: Markdown Style Guide
